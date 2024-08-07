@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:bookworm-slim
 
 # MAINTAINER Jo Shields <jo.shields@xamarin.com>
 # MAINTAINER Alexander Köplinger <alkpli@microsoft.com>

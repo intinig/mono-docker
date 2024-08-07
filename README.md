@@ -1,3 +1,6 @@
+# NOTE: This fork is supposed to be temporary and replaces debian buster with bookworm
+# it will be removed as soon as soon as the main repo updates to bookworm
+
 # Mono Docker image
 
 This image provides Docker releases of the [Mono Project](http://www.mono-project.com/).

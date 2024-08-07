@@ -1,4 +1,4 @@
-FROM mono:6.10.0.104-slim
+FROM intinig/mono:6.10.0.104-slim
 
 # MAINTAINER Jo Shields <jo.shields@xamarin.com>
 # MAINTAINER Alexander Köplinger <alkpli@microsoft.com>
